@@ -6,7 +6,7 @@
 </div>
 
 ### :man_technologist: About Me
-I am a student developer in Ireland :ireland:
+I am a student developer in Ireland
 
 ---
 ### :man_student: Education
