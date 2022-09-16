@@ -3,6 +3,9 @@
   <a href="https://www.linkedin.com/in/michael-gerber-50586420b/">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+  <a href="https://itch.io/profile/michael2150">
+      <img src="https://img.shields.io/badge/Itch IO-orange?style=for-the-badge&logo=itchio&logoColor=white" alt="Itch Badge" />
+  </a>
 </div>
 
 ### :man_technologist: About Me
