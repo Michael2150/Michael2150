@@ -1,9 +1,8 @@
 import React from 'react';
-import './App.css';
-import {BrowserRouter, Routes, Route, Link} from 'react-router-dom';
+import {BrowserRouter, Route, Routes} from 'react-router-dom';
 import PageLayout from "./pages/page_layout";
 import HomePage from "./pages/home_page";
-import AboutPage from "./pages/about_page";
+import './App.css';
 
 function App() {
     return (
@@ -11,7 +10,6 @@ function App() {
             <Routes>
                 <Route path="/" element={<PageLayout/>}>
                     <Route path="/" element={<HomePage/>}/>
-                    <Route path="about" element={<AboutPage/>}/>
 
                     <Route path="*" element={<HomePage/>}/>
                 </Route>

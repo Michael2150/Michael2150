@@ -1,37 +1,22 @@
-.App {
-    background-color: #1e1f22;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Roboto+Mono&display=swap');
+
+#root{
+    background-color: #3c3f40;
+    color: #fff;
     min-height: 100vh;
+}
+
+span{
+    font-family: 'Montserrat', 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+span.roboto{
+    font-family: 'Roboto Mono', 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+div.page-intro{
     display: flex;
-    flex-direction: column;
-    align-items: center;
     justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: white;
-}
-
-.App-Header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: auto;
-    display: flex;
-    margin: -10px;
     align-items: center;
-    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
-    z-index: 1;
-}
-
-Middle {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-Left {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
+    height: 100vh;
+    background-image: image("https://images.unsplash.com/photo-1519680772-8b1b0b2e1b1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
 }
