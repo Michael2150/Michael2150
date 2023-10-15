@@ -13,7 +13,7 @@ I am a Computer Science student.
 
 ---
 ### :man_student: Education
-- South East Technological University - Bachelor of Science (Honours) Applied Computing (2020-2024)
+- South East Technological University - Bachelor of Science (Honours) Computer Science (2020-2024)
 
 ---
 ### :hammer_and_wrench: Languages & Tools
