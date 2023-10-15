@@ -9,7 +9,7 @@
 </div>
 
 ### :man_technologist: About Me
-I am a student developer in Ireland
+I am a Computer Science student.
 
 ---
 ### :man_student: Education
